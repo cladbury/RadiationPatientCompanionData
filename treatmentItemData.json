@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "name": "Baking Soda Gargles",
+        "description": "Patients will often develop dry mouth during radiation to the head and neck, which also results in thick mucous that is difficult to clear. Baking soda gargles help keep your mouth clean, moist, and free of mucous buildup.",
+        "instructions": "Mix 1 cup lukewarm water, 1/4 teaspoon baking soda, and 1/8 teaspoon salt. Rinse and gargle the solution. Repeat this at least 4-5 times per day. Try to rince every morning, after every meal, and at bedtime. Salt may be left out of the recipe if it is too irritating.",
+        "symptoms":["Dry Mouth"],
+        "options":[],
+        "reminders": 4,
+        "isPrescription": false,
+        "isEssential": false,
+        "isFavorite": false,
+        "reminderText": "Remember to do the baking soda gargle!",
+        "imageName": "bakingsodagargles"
+    },
+    {
+        "id":2,
+        "name": "Biotene",
+        "description": "Biotene can is a product that comes in several forms, including toothpaste and a rinse. It can be used to help with dry mouth.",
+        "instructions": "Biotene mouthwash can bu used as needed. Swish and spit about a tablespoon. Toothpaste can be used 2-3 times per day. Use in place of typical teeth brushing.",
+        "symptoms":["Dry Mouth"],
+        "options":[],
+        "reminders": 1,
+        "isPrescription": false,
+        "isEssential": false,
+        "isFavorite": false,
+        "reminderText": "Remember to use the Biotene!",
+        "imageName": "biotene"
+    },
+    {
+        "id":4,
+        "name": "Glutamine",
+        "description": "Glutamine (aka Glutasolve) is a protein powder made out of a specific aminoacid called glutamine. It is used to promote healing in the mouth and throat.",
+        "instructions": "Create a paste with Glutasolve by adding a small amount of water to the powder. You may apply it as a paste to sores, or can swish it around to coat your mouth. Then, swallow the paste. Try to clean your mouth prior to using this. Try not to use the glutamine immediately after eating.",
+        "symptoms":["Mucositis","Mouth Sores"],
+        "options":["Glutasolve"],
+        "reminders": 2,
+        "isPrescription": false,
+        "isEssential": false,
+        "isFavorite": false,
+        "reminderText": "Remember to use the glutamine!",
+        "imageName": "glutamine"
+    },
+    {
+        "id":5,
+        "name": "Magic Mouthwash",
+        "description": "Magic Mouthwash is a prescription medication that can help with mouth and throat discomfort related to radiation. It is a compunded medication that might contain medications such as lidocaine, Benadryl, and Mylanta",
+        "instructions": "Swish and swallow about 2 tablespoons up to 4 times per day. Only use this if you are having symptoms such as mouth pain or pain with swallowing. The effects last for a short amount of time, so try to use when you have a meal ready to help with getting calories in.",
+        "symptoms":[],
+        "options":["Miracle Mouthwash","Radicare Oral Wound Mix","Radiomix","Triple Mix"],
+        "reminders": 1,
+        "isPrescription": true,
+        "isEssential": false,
+        "isFavorite": false,
+        "reminderText": "Remember to use the magic mouthwash!",
+        "imageName": "magicmouthwash"
+    },
+    {
+        "id":8,
+        "name": "Skin Cream",
+        "description": "Skin creams are used to limit and delay the development of a sunburn-like skin reaction during and after treatment.",
+        "instructions": "Apply to treated area at least two times per day. Apply even if your skin currently looks and feels normal. It is ok to be generous. There is no limit to how often you can apply creams. Just be sure to not apply cream within about two hours of treatment.",
+        "symptoms":[],
+        "options":["Miaderm","Aquaphor","Aloe Vera Gel","Radiation Cream"],
+        "reminders": 2,
+        "isPrescription": false,
+        "isEssential": false,
+        "isFavorite": false,
+        "reminderText": "Remember to apply skin cream! Remember not to apply within two hours of your treatment.",
+        "imageName": "skincream"
+    },
+    
+]
