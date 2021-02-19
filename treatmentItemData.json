@@ -16,7 +16,7 @@
     {
         "id":2,
         "name": "Biotene",
-        "description": "Biotene is a product that comes in several forms, including toothpaste and a rinse. It can be used to help with dry mouth.",
+        "description": "TESTING Biotene is a product that comes in several forms, including toothpaste and a rinse. It can be used to help with dry mouth.",
         "instructions": "Biotene mouthwash can be used as needed. Swish and spit about a tablespoon. Toothpaste can be used 2-3 times per day. Use in place of typical teeth brushing.",
         "symptoms":["Dry Mouth"],
         "options":[],
