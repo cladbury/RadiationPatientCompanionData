@@ -16,8 +16,8 @@
     {
         "id":2,
         "name": "Biotene",
-        "description": "Biotene can is a product that comes in several forms, including toothpaste and a rinse. It can be used to help with dry mouth.",
-        "instructions": "Biotene mouthwash can bu used as needed. Swish and spit about a tablespoon. Toothpaste can be used 2-3 times per day. Use in place of typical teeth brushing.",
+        "description": "Biotene is a product that comes in several forms, including toothpaste and a rinse. It can be used to help with dry mouth.",
+        "instructions": "Biotene mouthwash can be used as needed. Swish and spit about a tablespoon. Toothpaste can be used 2-3 times per day. Use in place of typical teeth brushing.",
         "symptoms":["Dry Mouth"],
         "options":[],
         "reminders": 1,
@@ -28,11 +28,25 @@
         "imageName": "biotene"
     },
     {
+        "id":3,
+        "name": "Silvadene",
+        "description": "Silvadene or silver sulfadiazine is a prescription cream stronger than over-the-counter creams such as Aquaphor or Miaderm that is often prescribed when skin starts to become red and peel.",
+        "instructions": "Apply this medication to treated areas of skin as directed by your doctor, usually 1 to 2 times daily. The layer of medication should be thich and will take time to absorb.",
+        "symptoms":["Burn"],
+        "options":[],
+        "reminders": 1,
+        "isPrescription": true,
+        "isEssential": false,
+        "isFavorite": false,
+        "reminderText": "Remember to use Silvadene!",
+        "imageName": "default"
+    },
+    {
         "id":4,
         "name": "Glutamine",
         "description": "Glutamine (aka Glutasolve) is a protein powder made out of a specific aminoacid called glutamine. It is used to promote healing in the mouth and throat.",
         "instructions": "Create a paste with Glutasolve by adding a small amount of water to the powder. You may apply it as a paste to sores, or can swish it around to coat your mouth. Then, swallow the paste. Try to clean your mouth prior to using this. Try not to use the glutamine immediately after eating.",
-        "symptoms":["Mucositis","Mouth Sores"],
+        "symptoms":["Mucositis","Mouth Sores","Sores"],
         "options":["Glutasolve"],
         "reminders": 2,
         "isPrescription": false,
@@ -54,6 +68,20 @@
         "isFavorite": false,
         "reminderText": "Remember to use the magic mouthwash!",
         "imageName": "magicmouthwash"
+    },
+    {
+        "id":6,
+        "name": "Rincinol",
+        "description": "Rincinol is an over-the-counter medication that can be used for mouth pain and mouth sores",
+        "instructions": "Swish around your mouth for one minute. Try to avoid eating or drinking for one hour. Use as often as needed.",
+        "symptoms":["Mucositis","Mouth Sores","Sores","Mouth Pain"],
+        "options":[],
+        "reminders": 4,
+        "isPrescription": false,
+        "isEssential": false,
+        "isFavorite": false,
+        "reminderText": "Remember to do the Rincinol!",
+        "imageName": "rincinol"
     },
     {
         "id":8,
